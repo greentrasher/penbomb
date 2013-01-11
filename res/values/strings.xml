@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">penbomb</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="warning">Robots are rising</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
